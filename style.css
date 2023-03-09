@@ -85,16 +85,15 @@ div.block {
     position: relative;
     font-family: 'Inconsolata', monospace;
     transition: all 0.3s ease-in-out;
-    background-color: #229ED9;
-    color: #fff;
+    background-color: #191919;
+    color: #229ED9;
     text-align: center;
     line-height: 4px;
     display: inline-flex;
     align-items: center;
     width: auto;
     height: 30px;
-    border-radius: 5px;
-    border: 1px solid #262626;
+    border: 1px solid #404040;
 }
 
 .tgButton:hover {
