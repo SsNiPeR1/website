@@ -93,10 +93,10 @@ div.block {
     margin: auto;
     font-size: 14px;
     position: relative;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'JetBrains Mono', monospace;
     transition: all 0.3s ease-in-out;
     background-color: #191919;
-    color: #fff;
+    color: #aaaaaa;
     text-align: center;
     line-height: 4px;
     display: inline-flex;
